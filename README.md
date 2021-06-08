@@ -1,7 +1,17 @@
-Hello microverse is the first project in week one
-i made this with html
-![Screenshot from 2021-06-08 12-46-58](https://user-images.githubusercontent.com/75973193/121163891-d53a2680-c857-11eb-9747-f21344944e00.png)
-From the project i learned;
-To use git & github flow
-To setup linters
-To write descritive readme files and pull request descriptions
+Hello-Microverse
+  The project is to create a hello microverse html site with the aim of learning proper work presenting ways
+screenshot
+x-special/nautilus-clipboard
+copy
+file:///home/isaka/Pictures/Screenshot%20from%202021-06-08%2016-15-02.png
+
+Built With:
+-HTML
+-CSS
+
+Getting Started
+The project helped me learn more about;
+-GitHub actions, linters.
+-Git & Github Flow.
+-Writing proper readMe file and pull request description.
+-Using .gitignore file to not commit unrequired files.
