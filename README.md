@@ -16,13 +16,16 @@ Prerequisites;
 
 -Code editor (VS Code, Sublime, Atom)
 
--Authors
+Authors;
 
 Isaka Lumato
 
 GitHub: @isaka-lumato
+
 Twitter: @lm10skilly
+
 Show your support
+
 Give a star if you like this project!
 
 memo License
