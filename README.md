@@ -19,14 +19,11 @@ Prerequisites;
 Authors;
 
 Isaka Lumato
-
 GitHub: @isaka-lumato
-
 Twitter: @lm10skilly
 
 Show your support
 
 Give a star if you like this project!
-
 memo License
 This project is MIT licensed.
